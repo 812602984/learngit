@@ -8,3 +8,6 @@
  GIt is free software distributed under the GPL.
 
  Git has a mutab index called stage.
+
+ Git tracks changes.
+
